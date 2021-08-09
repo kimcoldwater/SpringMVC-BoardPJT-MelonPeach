@@ -12,3 +12,7 @@ mp_board
 mp_member
 mp_reply
 mp_file
+
+오라클 db계정
+C##root
+kim5057
